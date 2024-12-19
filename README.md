@@ -1,4 +1,4 @@
-# Trabalho Michalski - IA
+# Trabalho IA
 Marcelo Ferreira Leda Filho - 21953111 </br>
 Jean Seixas de Souza -22154600
 
